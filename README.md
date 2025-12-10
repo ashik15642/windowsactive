@@ -1,7 +1,7 @@
 # windowsactive
 **Option 1**
 Step1: Open windows powershell with Administrator privilige.
-Step2: past the link than clic enter than chose the option.
+Step2: past the link than click enter than chose the option.
       irm https://get.activated.win | iex 
 
 You can active windows by CMD.
